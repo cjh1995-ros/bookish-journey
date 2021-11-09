@@ -18,17 +18,18 @@ http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU217001+2020_T2/about
 http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU216002+2018_01/about
 http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_46+2021_T1/about
 ### 3. 스레드와 멀티프로세서
-- 0. 코어와 스레드
+1. 코어와 스레드
 https://www.youtube.com/watch?v=_dhLLWJNhwY
-- 1. 프로그래밍에서의 동기/비동기의 개념
+2. 프로그래밍에서의 동기/비동기의 개념
 https://www.youtube.com/watch?v=c4R_7XGlrBU
-- 2. Net4.0 이전의 비동기 코드의 문제점
+3. Net4.0 이전의 비동기 코드의 문제점
 https://www.youtube.com/watch?v=74O_F0aLIqo
-- 3. Task의 등장 배경
+4. Task의 등장 배경
 https://www.youtube.com/watch?v=alN1qED3TNA&t=35s
-- 4. 바람직한 멀티스레딩 구조
+5. 바람직한 멀티스레딩 구조
 https://www.youtube.com/watch?v=M1e9nmmD3II
-
+etc. Process vs Thread
+https://www.youtube.com/watch?v=iks_Xb9DtTM
 ### 4. 소켓 통신
 
 ## 빅데이터
