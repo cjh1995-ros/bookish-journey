@@ -11,6 +11,7 @@ http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_2017_01+2021_ZIP/about
 
 ### 1. 컴퓨터 구조
 정보 처리기사 자격증 준비도 해볼만 한듯...
+
 https://www.youtube.com/watch?v=Z9p-9Bmejd4&list=PLwaVnP-dAv36cu-0CREDVOsEql9wBEnlk
 ### 2. 알고리즘 및 자료구조
 http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU217001+2020_T2/about
